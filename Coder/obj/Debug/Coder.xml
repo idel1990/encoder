@@ -1,0 +1,54 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Coder
+</name>
+</assembly>
+<members>
+<member name="P:Coder.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Coder.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Coder.My.Resources.Resources.Microsoft_VisualBasic_PowerPacks_Vs1">
+	<summary>
+  Looks up a localized string similar to &lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;doc&gt;
+  &lt;assembly&gt;
+    &lt;name&gt;Microsoft.VisualBasic.PowerPacks.Vs&lt;/name&gt;
+  &lt;/assembly&gt;
+  &lt;members&gt;
+    &lt;member name="T:Microsoft.VisualBasic.PowerPacks.BackStyle"&gt;
+      &lt;summary&gt;
+          Specifies the background transparency for an &lt;see cref="T:Microsoft.VisualBasic.PowerPacks.OvalShape" /&gt; or &lt;see cref="T:Microsoft.VisualBasic.PowerPacks.RectangleShape" /&gt; control.
+        &lt;/summary&gt;
+    &lt;/member&gt;
+    &lt;member name="F:Microsoft.VisualBasic.PowerPacks.BackS [rest of string was truncated]";.
+</summary>
+</member><member name="P:Coder.My.Resources.Resources.Microsoft_VisualBasic_PowerPacks_Vs3">
+	<summary>
+  Looks up a localized string similar to &lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;doc&gt;
+  &lt;assembly&gt;
+    &lt;name&gt;Microsoft.VisualBasic.PowerPacks.Vs&lt;/name&gt;
+  &lt;/assembly&gt;
+  &lt;members&gt;
+    &lt;member name="T:Microsoft.VisualBasic.PowerPacks.BackStyle"&gt;
+      &lt;summary&gt;
+          Specifies the background transparency for an &lt;see cref="T:Microsoft.VisualBasic.PowerPacks.OvalShape" /&gt; or &lt;see cref="T:Microsoft.VisualBasic.PowerPacks.RectangleShape" /&gt; control.
+        &lt;/summary&gt;
+    &lt;/member&gt;
+    &lt;member name="F:Microsoft.VisualBasic.PowerPacks.BackS [rest of string was truncated]";.
+</summary>
+</member><member name="T:Coder.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
